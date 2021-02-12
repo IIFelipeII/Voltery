@@ -10,14 +10,14 @@
 <br />
 <div align="center">
  
-<img src='https://i.imgur.com/JeL5Ic2.png' width=10% height=15% ></a>
+<img src='https://i.imgur.com/JeL5Ic2.png' width=17% height=20% ></a>
    
-<a href="https://github.com/IIFelipeII" target="_blank"><img src='https://i.imgur.com/P4Kprns.png' width=6% height=6% ></a> </a>
-<a href="https://github.com/valeriac24"><img src='https://i.imgur.com/Z4Nsfvs.png' width=6% height=6% ></a>
+<a href="https://github.com/IIFelipeII" target="_blank"><img src='https://i.imgur.com/P4Kprns.png' width=8% height=8% ></a> </a>
+<a href="https://github.com/valeriac24"><img src='https://i.imgur.com/Z4Nsfvs.png' width=8% height=8% ></a>
 
-<a href="https://github.com/andreshg2003"><img src='https://i.imgur.com/KcLPyjj.png' width=6% height=6% ></a>
-<a href="https://github.com/jdmendez896"><img src='https://i.imgur.com/Jb3JTjc.png' width=6% height=6% ></a>
-<a href="https://github.com/MiltonStivenPinzon"><img src='https://i.imgur.com/CzGj4xW.png' width=6% height=6% ></a>
+<a href="https://github.com/andreshg2003"><img src='https://i.imgur.com/KcLPyjj.png' width=8% height=8% ></a>
+<a href="https://github.com/jdmendez896"><img src='https://i.imgur.com/Jb3JTjc.png' width=8% height=8% ></a>
+<a href="https://github.com/MiltonStivenPinzon"><img src='https://i.imgur.com/CzGj4xW.png' width=8% height=8% ></a>
 </div>
 </div>
 <br />
@@ -78,46 +78,6 @@ persona natural para saber el manejo del sitio más no las operaciones de los en
 gestiona, esta persona debe ser una estudiada en el ámbito de manejo de inventarios del mismo modo 
 identificar a las personas encargadas de su gestionamiento.
 <a id="inv"></a>
-<h3 align="center" >Inventario </h3>
-
- Para este inventario tuvimos que tener en cuenta los siguientes aspectos:<br>
-❖ El espacio en donde se verán los productos será por un medio electrónico, adecuado para una visión 
-cómoda.
-<br>
-❖ Los productos no son de tipo perecible, sin embargo posee un cambio por las nuevas actualizaciones 
-de la página y productos.
-<br>
-❖ La codificación de los artículos estará basada en la hora en que se hayan publicado, por otro lado 
-deberá tener información acerca del producto con la intención de obtener mayor información.
-<br>
-❖ La herramienta que se usará para su gestión será un Software.
-<br>
-❖ El manejo de entradas y salidas, las salidas tendrán un tiempo de expiración de un año después de 
-la publicación si no se ha vendido, en cuanto a entradas, estas deberán tener información específica 
-del producto para el momento de la venta.<br>
-
-
-
-
-
-
-❖ El inventario se deberá realizar de forma mensual. <br>
-
-En la sección de la página encontrará los siguientes catálogos:
- <br>
-❖ Cristales o lentes oftálmicas.
-<br>
-❖ Monturas para gafas graduadas y gafas de sol.
-<br>
-❖ Contactología y lentillas
-<br>
-❖ Gafas de protección para graduar.
-<br>
-❖ Gafas de natación y piscina graduadas.
-<br>
-❖ Gafas para deporte graduadas
-<br>
-❖ Lupas (lente).<br>
 
 
 
