@@ -1,4 +1,10 @@
-# GloviMarket
+# :small_red_triangle: GloviMarket :small_red_triangle_down:
+<div align="center">
+  <br>
+  <img src='https://i.imgur.com/UiJjNYy.png'></a>
+</div>
+ 
+<br />
 <div align="center">
  
 <img src='https://i.imgur.com/JeL5Ic2.png' width=15% height=20% ></a>
@@ -13,13 +19,8 @@
 </div>
 <br />
 
-<div align="center">
-  <br>
-  <img src='https://i.imgur.com/UiJjNYy.png'></a>
-</div>
- 
-<br />
- <h3 align="center"> Mira la visión de la innovación!</h3>
+
+ <h3 align="center"> Mira la visión de la innovación! :stars:</h3> 
 
   <p align="center">
   
