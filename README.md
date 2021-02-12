@@ -14,19 +14,20 @@
  <img src="https://i.imgur.com/7nGxru7.png">
   <!-- SlideBar Fin -->
 <img src='https://i.imgur.com/JeL5Ic2.png' width=17% height=20% ></a>
-   
+   <div align="left">
 <a href="https://github.com/IIFelipeII" target="_blank"><img src='https://i.imgur.com/P4Kprns.png' width=8% height=8% ></a> </a>
 <a href="https://github.com/valeriac24"><img src='https://i.imgur.com/Z4Nsfvs.png' width=8% height=8% ></a>
 
 <a href="https://github.com/andreshg2003"><img src='https://i.imgur.com/KcLPyjj.png' width=8% height=8% ></a>
 <a href="https://github.com/jdmendez896"><img src='https://i.imgur.com/Jb3JTjc.png' width=8% height=8% ></a>
 <a href="https://github.com/MiltonStivenPinzon"><img src='https://i.imgur.com/CzGj4xW.png' width=8% height=8% ></a>
-</div>
-</div>
-<br />
 <!-- SlideBar inicio -->
  <img src="https://i.imgur.com/7nGxru7.png">
   <!-- SlideBar Fin -->
+</div>
+</div>
+<br />
+
 
 
 
