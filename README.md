@@ -1,3 +1,6 @@
+
+<body bgcolor=”#FF0000″>
+
 # :small_red_triangle: GloviMarket :small_red_triangle_down:
 <div align="center">
   <br>
@@ -7,14 +10,14 @@
 <br />
 <div align="center">
  
-<img src='https://i.imgur.com/JeL5Ic2.png' width=15% height=20% ></a>
+<img src='https://i.imgur.com/JeL5Ic2.png' width=13% height=17% ></a>
    <div align="right">
-<a href="https://github.com/IIFelipeII" target="_blank"><img src='https://i.imgur.com/P4Kprns.png' width=8% height=8% ></a> </a>
-<a href="https://github.com/valeriac24"><img src='https://i.imgur.com/Z4Nsfvs.png' width=8% height=8% ></a>
+<a href="https://github.com/IIFelipeII" target="_blank"><img src='https://i.imgur.com/P4Kprns.png' width=6% height=6% ></a> </a>
+<a href="https://github.com/valeriac24"><img src='https://i.imgur.com/Z4Nsfvs.png' width=6% height=6% ></a>
 
-<a href="https://github.com/andreshg2003"><img src='https://i.imgur.com/KcLPyjj.png' width=8% height=8% ></a>
-<a href="https://github.com/jdmendez896"><img src='https://i.imgur.com/Jb3JTjc.png' width=8% height=8% ></a>
-<a href="https://github.com/MiltonStivenPinzon"><img src='https://i.imgur.com/CzGj4xW.png' width=8% height=8% ></a>
+<a href="https://github.com/andreshg2003"><img src='https://i.imgur.com/KcLPyjj.png' width=6% height=6% ></a>
+<a href="https://github.com/jdmendez896"><img src='https://i.imgur.com/Jb3JTjc.png' width=6% height=6% ></a>
+<a href="https://github.com/MiltonStivenPinzon"><img src='https://i.imgur.com/CzGj4xW.png' width=6% height=6% ></a>
 </div>
 </div>
 <br />
@@ -134,3 +137,4 @@ de sus productos.
 <br>
 
 
+</body>
