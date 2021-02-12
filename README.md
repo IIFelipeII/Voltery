@@ -99,3 +99,4 @@ de sus productos.
 
 
 
+<img src="https://i.imgur.com/1xytEDX.png">
