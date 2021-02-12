@@ -1,5 +1,5 @@
 
-<body bgcolor=”#FF0000″>
+
 
 # :small_red_triangle: GloviMarket :small_red_triangle_down:
 <div align="center">
@@ -11,7 +11,7 @@
 <div align="center">
  
 <img src='https://i.imgur.com/JeL5Ic2.png' width=13% height=17% ></a>
-   <div align="right">
+   <div align="left">
 <a href="https://github.com/IIFelipeII" target="_blank"><img src='https://i.imgur.com/P4Kprns.png' width=6% height=6% ></a> </a>
 <a href="https://github.com/valeriac24"><img src='https://i.imgur.com/Z4Nsfvs.png' width=6% height=6% ></a>
 
@@ -137,4 +137,4 @@ de sus productos.
 <br>
 
 
-</body>
+
