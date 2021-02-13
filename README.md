@@ -1,5 +1,5 @@
 
-<a src="https://player.vimeo.com/video/512022609" width="640" height="211" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></a>
+<a href="https://gifyu.com/image/VgPE"><img src="https://s2.gifyu.com/images/GLv22i.gif" alt="GLv22i.gif" border="0" /></a>
 
 # :small_red_triangle: GloviMarket :small_red_triangle_down:
 <div align="center">
