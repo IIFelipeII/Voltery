@@ -1,7 +1,8 @@
-
-<a href="https://gifyu.com/image/VgPE"><img src="https://s2.gifyu.com/images/GLv22i.gif" alt="GLv22i.gif" border="0" /></a>
-
 # :small_red_triangle: GloviMarket :small_red_triangle_down:
+<div align="center">
+<a href="https://gifyu.com/image/VgPE"><img src="https://s2.gifyu.com/images/GLv22i.gif" alt="GLv22i.gif" border="0" /></a>
+</div>
+
 <div align="center">
   <br>
   <img src='https://i.imgur.com/UiJjNYy.png'></a>
