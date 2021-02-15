@@ -1,13 +1,13 @@
-# :small_red_triangle: GloviMarket :small_red_triangle_down:
+#:small_red_triangle: GloviMarket :small_red_triangle_down:
 <div align="center">
-<a href="https://gifyu.com/image/VgPE"><img src="https://s2.gifyu.com/images/GLv22i.gif" alt="GLv22i.gif" border="0" /></a>
+<a href="https://gifyu.com/image/VF4i"><img src="https://s2.gifyu.com/images/GloviMarket.gif" alt="GloviMarket.gif" border="0" /></a>
 </div>
-
+<!-- SlideBar inicio 
 <div align="center">
   <br>
   <img src='https://i.imgur.com/UiJjNYy.png'></a>
 </div>
- 
+ -->
 <br />
  <h3 align="center"> Mira la visión de la innovación! :stars:</h3> 
 <div align="center">
